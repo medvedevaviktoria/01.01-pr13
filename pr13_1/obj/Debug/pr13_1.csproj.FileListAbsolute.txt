@@ -1,0 +1,7 @@
+X:\МДК 01.01\pr13_1\bin\Debug\pr13_1.exe.config
+X:\МДК 01.01\pr13_1\bin\Debug\pr13_1.exe
+X:\МДК 01.01\pr13_1\bin\Debug\pr13_1.pdb
+X:\МДК 01.01\pr13_1\obj\Debug\pr13_1.csproj.AssemblyReference.cache
+X:\МДК 01.01\pr13_1\obj\Debug\pr13_1.csproj.CoreCompileInputs.cache
+X:\МДК 01.01\pr13_1\obj\Debug\pr13_1.exe
+X:\МДК 01.01\pr13_1\obj\Debug\pr13_1.pdb
